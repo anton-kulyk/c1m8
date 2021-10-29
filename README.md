@@ -1,7 +1,7 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=c1m8)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=c1m8&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
 <!--
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=c1m8)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=c1m8&show_icons=true&theme=dracula&count_private=true)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=c1m8)](https://github.com/c1m8/github-readme-statstheme=dracula&count_private=true)
 
