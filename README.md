@@ -1,5 +1,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=c1m8&show_icons=true&theme=dracula&count_private=true)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=c1m8)](https://github.com/c1m8/github-readme-statstheme=dracula&count_private=true)
+
+
 <!--
 **c1m8/c1m8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
